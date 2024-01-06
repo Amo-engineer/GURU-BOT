@@ -7,15 +7,15 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['6285750209572', 'KERRY', true],
-  ['62 857-5020-9572', 'DEXTEROUS', true], 
+  ['254741356342', 'amos', true],
+  ['254741356342', 'amos', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['6285750209572'] 
-global.prems = ['6285750209572', '254113545599', '254113945001']
+global.mods = ['254741356342'] 
+global.prems = ['254741356342', '254797583290', '254113945001']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'KERRY WA BOT'
+global.botname = 'AMOS WA BOT'
 global.premium = 'true'
-global.packname = 'KERRY WA┃ᴮᴼᵀ' 
-global.author = '@KERRY THE KING' 
+global.packname = 'AMOS WA┃ᴮᴼᵀ' 
+global.author = '@AMOS THE KING' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/KING_KERRY_JR\n' 
 global.dygp = 'https://chat.whatsapp.com/I5muvu7Vogm9U5cs9837re'
